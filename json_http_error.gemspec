@@ -1,7 +1,7 @@
 
 Gem::Specification.new do |s|
   s.name        = 'json_http_error'
-  s.version     = '0.0.8'
+  s.version     = '0.0.9'
   s.platform    = Gem::Platform::RUBY
   s.licenses    = ['MIT']
   s.summary     = 'DRY module for APIs to render HTTP errors in JSON'

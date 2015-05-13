@@ -1,0 +1,42 @@
+fr:
+  http_status:
+    '400': Mauvaise requête
+    '401': Accès Non Authorisé
+    '402': Paiement Requis
+    '403': Interdit
+    '404': Introuvable
+    '405': Méthode Non Authorisée
+    '406': Non Acceptable
+    '407': Authentification Proxy Requise
+    '408': Temps D'attente De Réponse Écoulé
+    '409': Conflit
+    '410': Indisponible
+    '411': Longueur Non Précisée
+    '412': Précondition Non Vérifiées
+    '413': Requête Trop Large
+    '414': URI Trop Longue
+    '415': Format Non Supporté
+    '416': "Écart Demandé Invalide"
+    '417': Comportement Insatisfaisable
+    '418': Je Suis Une Théière
+    '419': Authentification Trop Longue
+    '420': Soyez Plus Calme
+    '421': Requête Mal Dirigée
+    '422': Données Fournies Invalides
+    '423': Verrouillé
+    '424': Dépendance Échouée
+    '426': Mise À Jour Requise
+    '428': Précondition Requise
+    '429': Trop De Requêtes
+    '431': Champ En-tête Trop Larges
+    '440': Connexion Trop Longue
+    '444': Pas De Réponse
+    '449': Réessayer Avec
+    '450': Bloqué par les Contrôles Parentaux de Windows
+    '451': Redirection
+    '494': En-têtes Trop Larges
+    '495': Erreur De Certificat
+    '496': Pas De Certificat
+    '497': HTTP vers HTTPS
+    '498': Token Éxpiré/invalide
+    '499': Requête Fermée par Client
