@@ -1,6 +1,4 @@
 class JsonHttpError < StandardError
-  VERSION = '0.0.2'.freeze
-
   attr_accessor :code, :opts
 
   def initialize(error_code, error_opts = {})
@@ -26,3 +24,5 @@ class JsonHttpError < StandardError
     end
   end
 end
+
+require 'json_http_error/railtie' if defined?(Rails)
