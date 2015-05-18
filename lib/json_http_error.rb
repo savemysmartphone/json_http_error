@@ -25,4 +25,5 @@ class JsonHttpError < StandardError
   end
 end
 
+require 'json_http_error/handler'
 require 'json_http_error/railtie' if defined?(Rails)
